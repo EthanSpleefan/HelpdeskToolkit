@@ -1,4 +1,4 @@
-# HelpdeskToolkit
+# HelpdeskToolkit Info
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/EthanSpleefan/HelpdeskToolkit)
 ![GitHub contributors](https://img.shields.io/github/contributors/EthanSpleefan/HelpdeskToolkit)
