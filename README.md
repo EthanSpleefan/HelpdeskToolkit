@@ -1,13 +1,13 @@
-# IT-Toolkit
+# HelpdeskToolkit
 
-![GitHub repo size](https://img.shields.io/github/repo-size/EthanSpleefan/IT-Toolkit)
-![GitHub contributors](https://img.shields.io/github/contributors/EthanSpleefan/IT-Toolkit)
-![GitHub stars](https://img.shields.io/github/stars/EthanSpleefan/IT-Toolkit?style=social)
-![GitHub forks](https://img.shields.io/github/forks/EthanSpleefan/IT-Toolkit?style=social)
-![GitHub issues](https://img.shields.io/github/issues/EthanSpleefan/IT-Toolkit)
-![GitHub license](https://img.shields.io/github/license/EthanSpleefan/IT-Toolkit)
+![GitHub repo size](https://img.shields.io/github/repo-size/EthanSpleefan/HelpdeskToolkit)
+![GitHub contributors](https://img.shields.io/github/contributors/EthanSpleefan/HelpdeskToolkit)
+![GitHub stars](https://img.shields.io/github/stars/EthanSpleefan/HelpdeskToolkit?style=social)
+![GitHub forks](https://img.shields.io/github/forks/EthanSpleefan/HelpdeskToolkit?style=social)
+![GitHub issues](https://img.shields.io/github/issues/EthanSpleefan/HelpdeskToolkit)
+![GitHub license](https://img.shields.io/github/license/EthanSpleefan/HelpdeskToolkit)
 
-Welcome to the IT-Toolkit repository! This project contains a collection of useful tools, guides, and scripts to help sort out everyday and sometimes rare IT problems.
+Welcome to the HelpdeskToolkit repository! This project contains a collection of useful tools, guides, and scripts to help sort out everyday and sometimes rare IT problems.
 
 ## Features
 
@@ -18,10 +18,10 @@ Welcome to the IT-Toolkit repository! This project contains a collection of usef
 
 ## Getting Started
 
-To get started with the IT-Toolkit, clone the repository and explore the various tools and guides available.
+To get started with the HelpdeskToolkit, clone the repository and explore the various tools and guides available.
 
 ```bash
-git clone https://github.com/EthanSpleefan/IT-Toolkit.git
+git clone https://github.com/EthanSpleefan/HelpdeskToolkit.git
 ```
 
 ## Contributing
